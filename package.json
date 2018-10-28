@@ -1,3 +1,4 @@
+
 {
   "name": "phaser3-starter-typescript",
   "version": "1.0.0",
@@ -20,7 +21,7 @@
     "webpack-dev-server": "^3.1.9"
   },
   "dependencies": {
-    "phaser": "3.10.1"
+    "phaser": "3.15"
   },
   "scripts": {
     "dev": "webpack --mode development && webpack-dev-server --mode development",
